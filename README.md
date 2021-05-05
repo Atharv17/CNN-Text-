@@ -1,12 +1,12 @@
 # CNN-Text
 
 
-###Data
+### Data
 
 1. we have total of 20 types of documents(Text files) and total 18828 documents(text files).
 2. Now problem is to classify all the documents into any one of the class.
 
-###Preprocessing:
+### Preprocessing:
 
 useful links: http://www.pyregex.com/
 
