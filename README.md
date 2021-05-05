@@ -1,12 +1,12 @@
 # CNN-Text
 
 
-### Data
+## Data
 
 1. we have total of 20 types of documents(Text files) and total 18828 documents(text files).
 2. Now problem is to classify all the documents into any one of the class.
 
-### Preprocessing:
+## Preprocessing:
 
 useful links: http://www.pyregex.com/
 
@@ -94,7 +94,7 @@ and remove the words which are greater than or equal to 15 or less than or equal
 18. Now we got our Preprocessed Text, email, subject. created a dataframe with those. 
 Below are the columns of the df. 
 
-### Models 
+## Models 
 
 Model-1: Using 1D convolutions with word embeddings - https://stackoverflow.com/a/43399308/4084039
 https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
